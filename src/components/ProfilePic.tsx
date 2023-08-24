@@ -2,9 +2,9 @@ import React from "react";
 
 function Profile() {
   return (
-    <div className="fixed">
+    <div className="fixed mt-[90px]">
       <img
-        src="https://images.pexels.com/photos/16129705/pexels-photo-16129705/free-photo-of-man-sitting-at-desk-working-on-computers.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        src="https://images.pexels.com/photos/15565598/pexels-photo-15565598/free-photo-of-man-with-mustache-in-jacket.jpeg?auto=compress&cs=tinysrgb&w=1600"
         className="object-cover h-screen"
       />
     </div>
