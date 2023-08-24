@@ -4,6 +4,7 @@ import ProfilePic from "./components/ProfilePic";
 import Introduction from "./components/Introduction";
 import About from "./components/About";
 import Services from "./components/Services";
+import ProgressBar from "./components/ProgressBar";
 import "./App.css";
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
           <Services />
         </div>
         <div className="hidden md:block">
+          <ProgressBar />
           <ProfilePic />
         </div>
       </div>
